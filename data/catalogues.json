@@ -1,0 +1,36 @@
+{"_id":{"$oid":"5d2c10d4251573270cfb4aaa"},"title":"Extreme Tech","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Technology","__v":0}
+{"_id":{"$oid":"5d2c1101251573270cfb4aab"},"title":"Amazon","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Technology","__v":0}
+{"_id":{"$oid":"5d2c1168251573270cfb4aac"},"title":"Cisemu","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Technology","__v":0}
+{"_id":{"$oid":"5d2c117c251573270cfb4aad"},"title":"Nike","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Sport","__v":0}
+{"_id":{"$oid":"5d2c118e251573270cfb4aae"},"title":"Arenas","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Sport","__v":0}
+{"_id":{"$oid":"5d2c119d251573270cfb4aaf"},"title":"UNO Sport","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Sport","__v":0}
+{"_id":{"$oid":"5d2c11a8251573270cfb4ab0"},"title":"Good Life","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Sport","__v":0}
+{"_id":{"$oid":"5d2c11b6251573270cfb4ab1"},"title":"Ciclo Extreme Bikes","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Sport","__v":0}
+{"_id":{"$oid":"5d2c11d9251573270cfb4ab2"},"title":"El Caminante","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Sport","__v":0}
+{"_id":{"$oid":"5d2c11f5251573270cfb4ab3"},"title":"Eligon, Xtreme o Calistenia","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Sport","__v":0}
+{"_id":{"$oid":"5d2c1209251573270cfb4ab4"},"title":"GNC Live Well","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Sport","__v":0}
+{"_id":{"$oid":"5d2c1227251573270cfb4ab5"},"title":"Universal","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Reading","__v":0}
+{"_id":{"$oid":"5d2c1236251573270cfb4ab6"},"title":"Librería Internacional","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Reading","__v":0}
+{"_id":{"$oid":"5d2c1244251573270cfb4ab7"},"title":"Librería Lehmann","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Reading","__v":0}
+{"_id":{"$oid":"5d2c1253251573270cfb4ab8"},"title":"Amazon","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Reading","__v":0}
+{"_id":{"$oid":"5d2c126c251573270cfb4ab9"},"title":"Italianissimo","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Food","__v":0}
+{"_id":{"$oid":"5d2c1276251573270cfb4aba"},"title":"Kenko/Cava","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Food","__v":0}
+{"_id":{"$oid":"5d2c1283251573270cfb4abb"},"title":"Hotel Los Héroes","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Food","__v":0}
+{"_id":{"$oid":"5d2c1297251573270cfb4abc"},"title":"New York Pizza","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Food","__v":0}
+{"_id":{"$oid":"5d2c12a4251573270cfb4abd"},"title":"El Mexicano","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Food","__v":0}
+{"_id":{"$oid":"5d2c12b3251573270cfb4abe"},"title":"Kiwi","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Food","__v":0}
+{"_id":{"$oid":"5d2c12c1251573270cfb4abf"},"title":"El Observatorio","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Food","__v":0}
+{"_id":{"$oid":"5d2c12d9251573270cfb4ac0"},"title":"CCM Cinemas","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Family","__v":0}
+{"_id":{"$oid":"5d2c12e4251573270cfb4ac1"},"title":"Paradise","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Family","__v":0}
+{"_id":{"$oid":"5d2c12f3251573270cfb4ac2"},"title":"Ecotermales","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Family","__v":0}
+{"_id":{"$oid":"5d2c12ff251573270cfb4ac3"},"title":"Baldí Hot Springs","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Family","__v":0}
+{"_id":{"$oid":"5d2c1310251573270cfb4ac4"},"title":"Kalambú","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Family","__v":0}
+{"_id":{"$oid":"5d2c131d251573270cfb4ac5"},"title":"Místico Arenal Hanging Bridges","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Family","__v":0}
+{"_id":{"$oid":"5d2c1326251573270cfb4ac6"},"title":"Termales del Bosque","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Family","__v":0}
+{"_id":{"$oid":"5d2c133f251573270cfb4ac7"},"title":"Dra. Grettel Arroyo","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Personal care","__v":0}
+{"_id":{"$oid":"5d2c1358251573270cfb4ac8"},"title":"Balance Wellness Center","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Personal care","__v":0}
+{"_id":{"$oid":"5d2c1365251573270cfb4ac9"},"title":"Fisio Vaes","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Personal care","__v":0}
+{"_id":{"$oid":"5d2c1371251573270cfb4aca"},"title":"Bem Estar","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Personal care","__v":0}
+{"_id":{"$oid":"5d2c1384251573270cfb4acb"},"title":"Arenas","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Personal care","__v":0}
+{"_id":{"$oid":"5d2c1391251573270cfb4acc"},"title":"OVS","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Personal care","__v":0}
+{"_id":{"$oid":"5d4a55eb792dff3b40759268"},"title":"Walmart","locationId":{"$oid":"5ce9b5a608e6570a3ccc8121"},"category":"Food","__v":0}

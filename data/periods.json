@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5d23d9b27b1dfa238849b2b4"},"name":"2019-January-01 - 2019-June-01","startdate":{"$date":"2019-01-01T00:00:00.000Z"},"enddate":{"$date":"2019-06-01T00:00:00.000Z"},"status":true,"__v":0}
+{"_id":{"$oid":"5d23f2f7c2a8c22990adef55"},"name":"2018-July-01 - 2018-December-01","startdate":{"$date":"2018-07-01T00:00:00.000Z"},"enddate":{"$date":"2018-12-01T00:00:00.000Z"},"status":false,"__v":0}
+{"_id":{"$oid":"5d26c95ce461a32878afda32"},"name":"2019-July-01 - 2019-December-01","startdate":{"$date":"2019-07-01T00:00:00.000Z"},"enddate":{"$date":"2019-12-01T00:00:00.000Z"},"status":false,"__v":0}
+{"_id":{"$oid":"5d3a8d8ef1fca703fcd7a01f"},"name":"2020-January-01 - 2020-June-01","startdate":{"$date":"2020-01-01T00:00:00.000Z"},"enddate":{"$date":"2020-06-01T00:00:00.000Z"},"status":false,"__v":0}
+{"_id":{"$oid":"5d3b2a6a134b8d21744ffec5"},"name":"2020-July-02 - 2020-December-02","startdate":{"$date":"2020-07-02T00:00:00.000Z"},"enddate":{"$date":"2020-12-02T00:00:00.000Z"},"status":false,"__v":0}
+{"_id":{"$oid":"5d466dee2ef68a33c49aa02b"},"name":"2020-July-01 - 2021-December-01","startdate":{"$date":"2020-07-01T00:00:00.000Z"},"enddate":{"$date":"2021-12-01T00:00:00.000Z"},"status":false,"__v":0}
+{"_id":{"$oid":"5d490f7cd609560cb8a558bb"},"name":"2018-January-01 - 2018-June-01","startdate":{"$date":"2018-01-01T00:00:00.000Z"},"enddate":{"$date":"2018-06-01T00:00:00.000Z"},"status":false,"__v":0}
