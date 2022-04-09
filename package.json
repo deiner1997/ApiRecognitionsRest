@@ -23,7 +23,7 @@
     "jwt-simple": "^0.5.6",
     "lodash.isempty": "^4.4.0",
     "mocha": "^6.1.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.5.10",
     "nodemailer": "^6.1.1",
     "nodemon": "^1.19.0",
